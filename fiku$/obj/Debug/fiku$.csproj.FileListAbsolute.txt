@@ -1,0 +1,13 @@
+C:\Users\RXSE\Desktop\fiku$\fiku$\bin\Debug\fiku$.exe.config
+C:\Users\RXSE\Desktop\fiku$\fiku$\bin\Debug\fiku$.exe
+C:\Users\RXSE\Desktop\fiku$\fiku$\bin\Debug\fiku$.pdb
+C:\Users\RXSE\Desktop\fiku$\fiku$\obj\Debug\fiku_.mainWindow.resources
+C:\Users\RXSE\Desktop\fiku$\fiku$\obj\Debug\fiku_.Properties.Resources.resources
+C:\Users\RXSE\Desktop\fiku$\fiku$\obj\Debug\fiku$.csproj.GenerateResource.cache
+C:\Users\RXSE\Desktop\fiku$\fiku$\obj\Debug\fiku$.csproj.CoreCompileInputs.cache
+C:\Users\RXSE\Desktop\fiku$\fiku$\obj\Debug\fiku$.exe
+C:\Users\RXSE\Desktop\fiku$\fiku$\obj\Debug\fiku$.pdb
+C:\Users\RXSE\Desktop\fiku$\fiku$\obj\Debug\fiku_.insertWindow.resources
+C:\Users\RXSE\Desktop\fiku$\fiku$\obj\Debug\fiku_.loginWindow.resources
+C:\Users\RXSE\Desktop\fiku$\fiku$\obj\Debug\fiku$.csproj.AssemblyReference.cache
+C:\Users\RXSE\Desktop\fiku$\fiku$\obj\Debug\fiku_.insertEmployeeWindow.resources
